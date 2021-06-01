@@ -12,7 +12,7 @@ My work is in the area of distributed computing, parallel processing and big dat
 
 #Student related Activities
 
-What I love the most about academic life is being a part of the competitions. I love to mingle with other students and collaborators.
+  What I love the most about academic life is being a part of the competitions. I love to mingle with other students and collaborators.
 Competitions:
 1. Second Place, Genomics CyberSecurity Contest 2019, Qatar
 2. First Place, Artificial Intelligence National Competition 2021, Qatar
