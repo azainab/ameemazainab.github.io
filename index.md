@@ -11,6 +11,7 @@ My work is in the area of distributed computing, parallel processing and big dat
 2. Applause Award, Deloitte (Offices of the US)
 
 #Student related Activities
+
 What I love the most about academic life is being a part of the competitions. I love to mingle with other students and collaborators.
 Competitions:
 1. Second Place, Genomics CyberSecurity Contest 2019, Qatar
